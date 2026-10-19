@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DailyMacro/49.0.0": {
+        "runtime": {
+          "DailyMacro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DailyMacro/49.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

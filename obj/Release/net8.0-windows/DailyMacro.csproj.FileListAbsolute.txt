@@ -1,0 +1,14 @@
+C:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\DailyMacro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\DailyMacro.AssemblyInfoInputs.cache
+C:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\DailyMacro.AssemblyInfo.cs
+C:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\DailyMacro.csproj.CoreCompileInputs.cache
+C:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\DailyMacro.genruntimeconfig.cache
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\bin\Release\net8.0-windows\XoMacro.exe
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\bin\Release\net8.0-windows\XoMacro.deps.json
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\bin\Release\net8.0-windows\XoMacro.runtimeconfig.json
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\bin\Release\net8.0-windows\XoMacro.dll
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\bin\Release\net8.0-windows\XoMacro.pdb
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\XoMacro.dll
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\refint\XoMacro.dll
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\XoMacro.pdb
+c:\Users\XoD\Documents\www\MacroForBDO\DailyMacro\obj\Release\net8.0-windows\ref\XoMacro.dll

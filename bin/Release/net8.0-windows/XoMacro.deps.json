@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "XoMacro/63.0.0": {
+        "runtime": {
+          "XoMacro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XoMacro/63.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

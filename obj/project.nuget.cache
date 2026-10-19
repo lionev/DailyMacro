@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4YhypzqmDg=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\XoD\\Documents\\www\\MacroForBDO\\DailyMacro\\DailyMacro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.net.illink.tasks\\8.0.31\\microsoft.net.illink.tasks.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.netcore.app.runtime.win-x64\\8.0.31\\microsoft.netcore.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.31\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.31\\microsoft.aspnetcore.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\XoD\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a39d4fb8acac06ea4242c67d5ca79601\\nuget\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

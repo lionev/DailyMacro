@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <AssemblyName>XoMacro</AssemblyName>
+    <RootNamespace>DailyMacro</RootNamespace>
+    <Company>XoMacro</Company>
+    <Product>XoMacro</Product>
+    <AssemblyTitle>XoMacro</AssemblyTitle>
+    <Description>Gravador e repetidor de tarefas do dia a dia</Description>
+    <Version>65.0.0</Version>
+  </PropertyGroup>
+
+</Project>

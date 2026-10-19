@@ -1,0 +1,2 @@
+c:\Users\XoD\Documents\www\MacroForBDO\dist-v57\DailyMacro.pdb
+c:\Users\XoD\Documents\www\MacroForBDO\dist-v57\DailyMacro.exe
